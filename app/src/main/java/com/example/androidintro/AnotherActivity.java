@@ -21,5 +21,7 @@ public class AnotherActivity extends AppCompatActivity {
             Log.d("Debugging","z = " + z);
             Log.i("Custom Tag","Message to the Log # " + z);
         }
+
+        // Just testing git
     }
 }
